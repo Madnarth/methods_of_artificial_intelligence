@@ -1,0 +1,41 @@
+﻿<Window x:Class="NeuronNetwork.CalculateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NeuronNetwork"
+        mc:Ignorable="d"
+        Title="Sieć Neuronowa" Height="720" Width="1280" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="button" Content="Iteracja" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Width="150" FontFamily="Century Gothic" FontSize="22" Height="40" Click="button_Click"/>
+        <Button x:Name="button1" Content="Pokaż wyniki" HorizontalAlignment="Left" Margin="25,125,0,0" VerticalAlignment="Top" Width="150" FontFamily="Century Gothic" FontSize="22" Height="40" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Powrót" HorizontalAlignment="Left" Margin="25,175,0,0" VerticalAlignment="Top" Width="150" FontFamily="Century Gothic" FontSize="22" Height="40" Click="button2_Click"/>
+        <Label x:Name="label" Content="Wejścia:" HorizontalAlignment="Left" Margin="200,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label1" Content="Wyjścia:" HorizontalAlignment="Left" Margin="530,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label2" Content="Wagi:" HorizontalAlignment="Left" Margin="310,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label3" Content="Aktywacja:" HorizontalAlignment="Left" Margin="390,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label4" Content="Oczekiwane wyniki:" HorizontalAlignment="Left" Margin="640,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label5" Content="Ilość pętli:" HorizontalAlignment="Left" Margin="870,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label6" Content="Przykład:" HorizontalAlignment="Left" Margin="990,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label7" Content="Poprawne:" HorizontalAlignment="Left" Margin="1100,25,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="label8" Content="Wynik:" HorizontalAlignment="Left" Margin="233,398,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="30" Margin="25,420,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="30" FontFamily="Century Gothic" FontSize="22"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="30" Margin="25,457,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="30" FontFamily="Century Gothic" FontSize="22"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="30" Margin="25,495,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="30" FontFamily="Century Gothic" FontSize="22"/>
+        <StackPanel x:Name="WeightPanel" HorizontalAlignment="Left" Height="280" Margin="330,60,0,0" VerticalAlignment="Top" Width="71"/>
+        <StackPanel x:Name="InputPanel" HorizontalAlignment="Left" Height="280" Margin="230,60,0,0" VerticalAlignment="Top" Width="71"/>
+        <StackPanel x:Name="ActivePanel" HorizontalAlignment="Left" Height="280" Margin="450,60,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="3.733,0.468"/>
+        <StackPanel x:Name="OutputPanel" HorizontalAlignment="Left" Height="280" Margin="570,60,0,0" VerticalAlignment="Top" Width="71"/>
+        <StackPanel x:Name="ResultPanel" HorizontalAlignment="Left" Height="280" Margin="730,60,0,0" VerticalAlignment="Top" Width="71"/>
+        <Label x:Name="ilPetli_lab" Content="0" HorizontalAlignment="Left" Margin="910,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.877,0.14" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="CountOfRow_lab" Content="0" HorizontalAlignment="Left" Margin="1110,60,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,2.385" FontSize="22" FontFamily="Century Gothic"/>
+        <Label x:Name="numberOfExample_lab" Content="0" HorizontalAlignment="Left" Margin="1030,60,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Century Gothic"/>
+        <StackPanel x:Name="ResultUsersPanel" HorizontalAlignment="Left" Height="236" Margin="240,448,0,0" VerticalAlignment="Top" Width="71" RenderTransformOrigin="3.733,0.468">
+            <Label x:Name="R1_lab" Content="-"/>
+            <Label x:Name="R2_lab" Content="-"/>
+            <Label x:Name="R3_lab" Content="-"/>
+        </StackPanel>
+        <Button x:Name="button3" Content="Rysuj" HorizontalAlignment="Left" Margin="25,75,0,0" VerticalAlignment="Top" Width="150" Click="button3_Click" FontSize="22" FontFamily="Century Gothic" Height="40"/>
+
+    </Grid>
+</Window>

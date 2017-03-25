@@ -1,0 +1,83 @@
+D:\Pobrane\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+D:\Pobrane\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\Pobrane\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.g.cs
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.baml
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.g.cs
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.baml
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+E:\NeuronNetwork\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+D:\Pobrane\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+F:\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+F:\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+F:\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.g.cs
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.baml
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+C:\Users\Paweł\Documents\GitHub\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\MainWindow.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
