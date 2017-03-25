@@ -3,9 +3,9 @@ using System.Windows;
 
 namespace NeuronNetwork
 {
-    public partial class MainWindow : Window
+    public partial class Menu : Window
     {
-        public MainWindow()
+        public Menu()
         {
             InitializeComponent();
         }

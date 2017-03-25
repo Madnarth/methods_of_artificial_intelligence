@@ -60,5 +60,12 @@ namespace NeuronNetwork
             canvas1.Height = this.Height;
             Draw();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            Menu menu = new Menu();
+            menu.Show();
+            this.Close(); 
+        }
     }
 }

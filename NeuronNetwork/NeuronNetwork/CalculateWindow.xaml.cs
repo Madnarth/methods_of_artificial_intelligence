@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace NeuronNetwork
 {
@@ -66,6 +67,16 @@ namespace NeuronNetwork
                 labelkiActivationF[i].Margin = new Thickness(0, 0, 0, 0);
                 labelkiOutput[i].Margin = new Thickness(0, 0, 0, 0);
                 labelkiOczekiwanyWynik[i].Margin = new Thickness(0, 0, 0, 0);
+
+                labelkiActivationF[i].FontFamily = new FontFamily("Century Gothic");
+                labelkiOutput[i].FontFamily = new FontFamily("Century Gothic");
+                labelkiOczekiwanyWynik[i].FontFamily = new FontFamily("Century Gothic");
+                labelkiActivationF[i].FontSize = 22;
+                labelkiOutput[i].FontSize = 22;
+                labelkiOczekiwanyWynik[i].FontSize = 22;
+                labelkiInputs[i].FontFamily = new FontFamily("Century Gothic");
+
+                labelkiInputs[i].FontSize = 22;
                 labelkiInputs[i].Content = layer.NeuralCells[i].GetInputData(i).ToString();
                 labelkiActivationF[i].Content = layer.NeuralCells[i].GetMembranePotential().ToString();
                 labelkiOutput[i].Content = layer.NeuralCells[i].GetOutput().ToString();
@@ -81,6 +92,7 @@ namespace NeuronNetwork
 
                 for (int j = 0; j < 3; j++)
                 {
+
                     if (numerGlownejpetli == 0)
                     {
                         labelkiWeights[petlawag] = new Label();
@@ -95,6 +107,9 @@ namespace NeuronNetwork
                     {
                         labelkiWeights[petlawag].Margin = new Thickness(0, 0, 0, 0);
                     }
+
+                    labelkiWeights[petlawag].FontFamily = new FontFamily("Century Gothic");
+                    labelkiWeights[petlawag].FontSize = 22;
 
                     if (numerGlownejpetli == 0)
                     {
@@ -122,7 +137,6 @@ namespace NeuronNetwork
                         double nowawaga = layer.NeuralCells[i].GetInputWeight(j) - layer.NeuralCells[i].GetInputData(j);
                         layer.NeuralCells[i].SetInputWeight(j, nowawaga);
                         weights[i, j] = nowawaga;
-
                     }
 
                     bezkorekty = false;
@@ -178,7 +192,16 @@ namespace NeuronNetwork
 
             if (PoprawnezRzędu >= 4)
             {
-              CountOfRow_lab.Content = "Gotowe";
+                CountOfRow_lab.Content = "Gotowe";
+                button3.Visibility = Visibility;
+                label8.Visibility = Visibility;
+                label9.Visibility = Visibility;
+                textBox.Visibility = Visibility;
+                textBox1.Visibility = Visibility;
+                textBox2.Visibility = Visibility;
+                R1_lab.Visibility = Visibility;
+                R2_lab.Visibility = Visibility;
+                R3_lab.Visibility = Visibility;
             }
             else
             {
@@ -195,12 +218,21 @@ namespace NeuronNetwork
             tmpdata[0, 0] = Convert.ToDouble(textBox.Text);
             tmpdata[0, 1] = Convert.ToDouble(textBox1.Text);
             tmpdata[0, 2] = Convert.ToDouble(textBox2.Text);
+
             layer.SetInput(tmpdata, 0);
             layer.SetWeights(weights);
             Display();
+
             R1_lab.Content = layer.NeuralCells[0].GetOutput().ToString();
             R2_lab.Content = layer.NeuralCells[1].GetOutput().ToString();
             R3_lab.Content = layer.NeuralCells[2].GetOutput().ToString();
+
+            R1_lab.FontFamily = new FontFamily("Gothic Century");
+            R1_lab.FontSize = 22;
+            R2_lab.FontFamily = new FontFamily("Gothic Century");
+            R2_lab.FontSize = 22;
+            R3_lab.FontFamily = new FontFamily("Gothic Century");
+            R3_lab.FontSize = 22;
         }
 
         private void button3_Click(object sender, RoutedEventArgs e)
@@ -211,8 +243,8 @@ namespace NeuronNetwork
 
         private void button2_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mw = new MainWindow();
-            mw.Show();
+            Menu menu = new Menu();
+            menu.Show();
             this.Close();
         }
     }

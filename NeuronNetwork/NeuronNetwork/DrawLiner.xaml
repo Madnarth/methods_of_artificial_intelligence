@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NeuronNetwork"
         mc:Ignorable="d"
-        Title="Sieć Neuronowa" Height="600" Width="800" WindowStartupLocation="CenterScreen" SizeChanged="Window_SizeChanged">
+        Title="Sieć Neuronowa" Height="720" Width="1280" WindowStartupLocation="CenterScreen" SizeChanged="Window_SizeChanged">
     <Grid>
         <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="270" VerticalAlignment="Top" Width="292" Margin="258,153,0,0"/>
+        <Button x:Name="button" Content="Powrót" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Width="150" FontSize="22" FontFamily="Century Gothic" Height="40" Click="button_Click"/>
 
     </Grid>
 </Window>
