@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System.Windows.Input;
 using System.Windows.Shapes;
 
 namespace NeuronNetwork
@@ -9,11 +10,30 @@ namespace NeuronNetwork
 
         private void Draw()
         {
+            canvas1.Children.Clear();
+            Line ukladx = new Line();
+            Line uklady = new Line();
+            double wspx=canvas1.Width / 2; 
+            double wspy= canvas1.Height / 2;
+
+            ukladx.X1 = 0;
+            ukladx.Y1 = wspy;
+            ukladx.X2 = canvas1.Width;
+            ukladx.Y2 = wspy;
+
+            uklady.X1 = wspx;
+            uklady.Y1 = 0;
+            uklady.X2 = wspx;
+            uklady.Y2 = canvas1.Height;
+            ukladx.Stroke = System.Windows.Media.Brushes.Black;
+            uklady.Stroke = System.Windows.Media.Brushes.Black;
+          
+            canvas1.Children.Add(ukladx);
+            canvas1.Children.Add(uklady);
+
             Line myLine = null;
+            double x11 = -wspx;
             double x12 = canvas1.Width;
-            double x11 = 250;
-            double x21 = -100;
-            double x22 = canvas1.Height;
             double x3 = -1;
             double[,] PointX = new double[3, 2];
             double[,] PointY = new double[3, 2];
@@ -22,10 +42,11 @@ namespace NeuronNetwork
             {
                 PointX[i, 0] = x11;
                 PointX[i, 1] = x12;
-                PointY[i, 0] = (weights[i, 0] * x11 + x3 * weights[i, 2]) / (weights[i, 1] * x21);
-                PointY[i, 1] = (weights[i, 0] * x12  + x3 * weights[i, 2]) / (weights[i, 1] * x22);
+  
+                PointY[i, 0] = (weights[i, 0] * x11 + x3 * weights[i, 2]) / (weights[i, 1] );
+                PointY[i, 1] = (weights[i, 0] * x12 + x3 * weights[i, 2]) / (weights[i, 1] );
                 myLine = new Line();
-
+             
                 if (i == 0)
                 {
                     myLine.Stroke = System.Windows.Media.Brushes.LightSteelBlue;
@@ -38,11 +59,11 @@ namespace NeuronNetwork
                 {
                     myLine.Stroke = System.Windows.Media.Brushes.Violet;
                 }
-
-                myLine.X1 = PointX[0, 0] + 400;
-                myLine.X2 = PointX[i, 1] + 400;
-                myLine.Y1 = PointY[i, 0] + 100;
-                myLine.Y2 = PointY[i, 1] + 100;
+    
+                myLine.X1 = PointX[i, 0]+wspx;
+                myLine.X2 = PointX[i, 1]+ wspx;
+                myLine.Y1 = PointY[i, 0] + wspy;
+                myLine.Y2 = PointY[i, 1]+ wspy;
                 canvas1.Children.Add(myLine);
             }
         }

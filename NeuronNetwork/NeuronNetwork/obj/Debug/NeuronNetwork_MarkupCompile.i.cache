@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\
 NeuronNetwork
 none
 false
 DEBUG;TRACE
-D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\App.xaml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\App.xaml
 41552793883
 
 14-842702527
 131569487696
 CalculateWindow.xaml;DrawLiner.xaml;Menu.xaml;UsersWeights.xaml;
 
-False
+True
 

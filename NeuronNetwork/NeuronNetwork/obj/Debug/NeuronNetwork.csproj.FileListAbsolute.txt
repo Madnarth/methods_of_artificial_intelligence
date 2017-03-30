@@ -81,3 +81,43 @@ D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencj
 D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
 D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.g.cs
 D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\Metody Sztucznej Inteligencji (S. Zawiślak)\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.baml
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.g.cs
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.baml
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+E:\MSIPr\methods_of_artificial_intelligence-master\methods_of_artificial_intelligence-master\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe.config
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.exe
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.pdb
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.exe
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\bin\Debug\NeuronNetwork.pdb
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csprojResolveAssemblyReference.cache
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\App.g.cs
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.cache
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork_MarkupCompile.lref
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\CalculateWindow.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\DrawLiner.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\Menu.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\UsersWeights.baml
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.g.resources
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.Properties.Resources.resources
+D:\Dokumenty\ATH - Informatyka - Grupa 3\Semestr IV\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.GenerateResource.Cache

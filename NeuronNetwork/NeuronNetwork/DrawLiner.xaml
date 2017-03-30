@@ -7,8 +7,20 @@
         mc:Ignorable="d"
         Title="Sieć Neuronowa" Height="720" Width="1280" WindowStartupLocation="CenterScreen" SizeChanged="Window_SizeChanged">
     <Grid>
-        <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="270" VerticalAlignment="Top" Width="292" Margin="258,153,0,0"/>
-        <Button x:Name="button" Content="Powrót" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Width="150" FontSize="22" FontFamily="Century Gothic" Height="40" Click="button_Click"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="392*"/>
+            <ColumnDefinition Width="323*"/>
+            <ColumnDefinition Width="484*"/>
+            <ColumnDefinition Width="58*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="270" VerticalAlignment="Top" Width="292" Grid.ColumnSpan="2"/>
+        
+
+<!--<StackPanel><CanvasMouseWheel="Canvas_MouseWheel"><Canvas.RenderTransform><ScaleTransformx:Name="st"/></Canvas.RenderTransform><TextBlock>Some text</TextBlock></Canvas></StackPanel>-->
+
+
+        <Button x:Name="button" Content="Powrót" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Width="150" FontSize="22" FontFamily="Century Gothic" Height="40" Click="button_Click" Grid.Column="1"/>
 
     </Grid>
 </Window>

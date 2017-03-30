@@ -227,11 +227,11 @@ namespace NeuronNetwork
             R2_lab.Content = layer.NeuralCells[1].GetOutput().ToString();
             R3_lab.Content = layer.NeuralCells[2].GetOutput().ToString();
 
-            R1_lab.FontFamily = new FontFamily("Gothic Century");
+            R1_lab.FontFamily = new FontFamily(" Century Gothic");
             R1_lab.FontSize = 22;
-            R2_lab.FontFamily = new FontFamily("Gothic Century");
+            R2_lab.FontFamily = new FontFamily(" Century  Gothic");
             R2_lab.FontSize = 22;
-            R3_lab.FontFamily = new FontFamily("Gothic Century");
+            R3_lab.FontFamily = new FontFamily(" Century Gothic");
             R3_lab.FontSize = 22;
         }
 
@@ -246,6 +246,26 @@ namespace NeuronNetwork
             Menu menu = new Menu();
             menu.Show();
             this.Close();
+        }
+
+        private void button2_GotMouseCapture(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+
+        }
+
+        private void button2_MouseMove(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+
+        }
+
+        private void button2_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            button2.Background = button1.Background;
+        }
+
+        private void button2_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            button2.Background = button3.Background;
         }
     }
 }
